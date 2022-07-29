@@ -1,7 +1,7 @@
 <h1 align="center">Olá 👋, Eu sou o Gustavo</h1>
 <h3 align="center">Estudante de Eng. Software e apaixonado por programação!</h3>
 
-- 🌱 Atualmente estou aprendendo **Python, django e banco de dados**
+- 🌱 Atualmente estou aprendendo **Python e banco de dados**
 
 - 👨‍💻 All of my projects are available at [https://github.com/GustavoBezerraSE?tab=repositories](https://github.com/GustavoBezerraSE?tab=repositories)
 
